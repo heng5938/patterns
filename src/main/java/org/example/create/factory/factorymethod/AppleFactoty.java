@@ -1,4 +1,4 @@
-package org.example.create.factory.FactoryMethod;
+package org.example.create.factory.factorymethod;
 
 import org.example.entity.Fruit;
 import org.example.entity.fruit.Apple;

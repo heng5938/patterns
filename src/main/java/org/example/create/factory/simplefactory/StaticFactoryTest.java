@@ -1,4 +1,4 @@
-package org.example.create.factory.simpleFactory;
+package org.example.create.factory.simplefactory;
 
 import org.example.entity.Fruit;
 
