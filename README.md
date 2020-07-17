@@ -64,7 +64,7 @@ ps：
 
 2.实现原理
 
-![image-20200715121556259](%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.assets/image-20200715121556259.png)
+![image-20200715121556259](./%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.assets/image-20200715121556259.png)
 
 代码实现
 
